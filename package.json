@@ -1,0 +1,15 @@
+{
+  "name": "music-player",
+  "version": "0.0.1",
+  "description": "That is an app about player music",
+  "main": " app.js",
+  "scripts": {
+    "start": "node --watch ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Estiben Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
